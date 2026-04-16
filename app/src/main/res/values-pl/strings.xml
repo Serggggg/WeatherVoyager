@@ -1,0 +1,41 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="app_name">WeatherVoyager</string>
+    <string name="search_hint">Szukaj miasta...</string>
+    <string name="error_unknown">Nieznany błąd</string>
+    <string name="retry_button">Ponów</string>
+    <string name="permission_rationale">Aplikacja potrzebuje dostępu do Twojej lokalizacji, aby uzyskać dokładne prognozy pogody.</string>
+    <string name="grant_permission_button">Przyznaj uprawnienia</string>
+
+    <string name="wind_dir_n">Pn</string>
+    <string name="wind_dir_ne">Pn-Wsch</string>
+    <string name="wind_dir_e">Wsch</string>
+    <string name="wind_dir_se">Pd-Wsch</string>
+    <string name="wind_dir_s">Pd</string>
+    <string name="wind_dir_sw">Pd-Zach</string>
+    <string name="wind_dir_w">Zach</string>
+    <string name="wind_dir_nw">Pn-Zach</string>
+
+    <string name="weather_clear">Bezchmurnie</string>
+    <string name="weather_cloudy">Pochmurno</string>
+    <string name="weather_fog">Mgła</string>
+    <string name="weather_drizzle">Mżawka</string>
+    <string name="weather_rain">Deszcz</string>
+    <string name="weather_snow">Śnieg</string>
+    <string name="search_placeholder">Szukaj miasta...</string>
+    <string name="content_desc_search">Szukaj</string>
+    <string name="content_desc_clear">Wyczyść</string>
+    <string name="content_desc_my_loc">Moja lokalizacja</string>
+    <string name="temp_min">Min: %1$s°C</string>
+    <string name="temp_max">Maks: %1$s°C</string>
+    <string name="wind_speed_format">%1$s m/s</string>
+    <string name="humidity_format">%1$s%%</string>
+    <string name="precip_format">%1$s mm</string>
+    <string name="weather_thunderstorm">Burza</string>
+    <string name="content_desc_back">Wstecz</string>
+    <string name="forecast_for">Prognoza dla %1$s</string>
+    <string name="error_location_permission">Nie udało się pobrać współrzędnych lub brak uprawnień</string>
+    <string name="unknown_location">Nieznana lokalizacja</string>
+    <string name="error_network_unknown">Nieznany błąd sieci</string>
+    <string name="error_no_internet">Brak połączenia z internetem</string>
+</resources>

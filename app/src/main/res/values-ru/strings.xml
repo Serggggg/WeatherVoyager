@@ -1,0 +1,41 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="app_name">WeatherVoyager</string>
+    <string name="search_hint">Поиск города...</string>
+    <string name="error_unknown">Неизвестная ошибка</string>
+    <string name="retry_button">Повторить</string>
+    <string name="permission_rationale">Для получения актуального прогноза приложению необходим доступ к координатам устройства.</string>
+    <string name="grant_permission_button">Дать разрешение</string>
+
+    <string name="wind_dir_n">С</string>
+    <string name="wind_dir_ne">СВ</string>
+    <string name="wind_dir_e">В</string>
+    <string name="wind_dir_se">ЮВ</string>
+    <string name="wind_dir_s">Ю</string>
+    <string name="wind_dir_sw">ЮЗ</string>
+    <string name="wind_dir_w">З</string>
+    <string name="wind_dir_nw">СЗ</string>
+
+    <string name="weather_clear">Ясно</string>
+    <string name="weather_cloudy">Облачно</string>
+    <string name="weather_fog">Туман</string>
+    <string name="weather_drizzle">Морось</string>
+    <string name="weather_rain">Дождь</string>
+    <string name="weather_snow">Снег</string>
+    <string name="search_placeholder">Поиск города...</string>
+    <string name="content_desc_search">Поиск</string>
+    <string name="content_desc_clear">Очистить</string>
+    <string name="content_desc_my_loc">Моя локация</string>
+    <string name="temp_min">Мин: %1$s°C</string>
+    <string name="temp_max">Макс: %1$s°C</string>
+    <string name="wind_speed_format">%1$s м/с</string>
+    <string name="humidity_format">%1$s%%</string>
+    <string name="precip_format">%1$s мм</string>
+    <string name="weather_thunderstorm">Гроза</string>
+    <string name="content_desc_back">Назад</string>
+    <string name="forecast_for">Прогноз для %1$s</string>
+    <string name="error_location_permission">Не удалось получить координаты или нет прав</string>
+    <string name="unknown_location">Неизвестная локация</string>
+    <string name="error_network_unknown">Неизвестная ошибка сети</string>
+    <string name="error_no_internet">Нет подключения к интернету</string>
+</resources>

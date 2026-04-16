@@ -1,0 +1,41 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="app_name">WeatherVoyager</string>
+    <string name="search_hint">Rechercher une ville...</string>
+    <string name="error_unknown">Erreur inconnue</string>
+    <string name="retry_button">Réessayer</string>
+    <string name="permission_rationale">L\'application a besoin d\'accéder à votre position pour obtenir des prévisions météorologiques précises.</string>
+    <string name="grant_permission_button">Accorder l\'autorisation</string>
+
+    <string name="wind_dir_n">N</string>
+    <string name="wind_dir_ne">NE</string>
+    <string name="wind_dir_e">E</string>
+    <string name="wind_dir_se">SE</string>
+    <string name="wind_dir_s">S</string>
+    <string name="wind_dir_sw">SO</string>
+    <string name="wind_dir_w">O</string>
+    <string name="wind_dir_nw">NO</string>
+
+    <string name="weather_clear">Dégagé</string>
+    <string name="weather_cloudy">Nuageux</string>
+    <string name="weather_fog">Brouillard</string>
+    <string name="weather_drizzle">Bruine</string>
+    <string name="weather_rain">Pluie</string>
+    <string name="weather_snow">Neige</string>
+    <string name="search_placeholder">Rechercher une ville...</string>
+    <string name="content_desc_search">Recherche</string>
+    <string name="content_desc_clear">Effacer</string>
+    <string name="content_desc_my_loc">Ma position</string>
+    <string name="temp_min">Min: %1$s°C</string>
+    <string name="temp_max">Max: %1$s°C</string>
+    <string name="wind_speed_format">%1$s m/s</string>
+    <string name="humidity_format">%1$s%%</string>
+    <string name="precip_format">%1$s mm</string>
+    <string name="weather_thunderstorm">Orage</string>
+    <string name="content_desc_back">Retour</string>
+    <string name="forecast_for">Prévisions pour %1$s</string>
+    <string name="error_location_permission">Échec de l\'obtention des coordonnées ou pas d\'autorisation</string>
+    <string name="unknown_location">Lieu inconnu</string>
+    <string name="error_network_unknown">Erreur réseau inconnue</string>
+    <string name="error_no_internet">Pas de connexion Internet</string>
+</resources>

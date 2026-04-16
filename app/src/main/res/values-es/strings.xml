@@ -1,0 +1,41 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="app_name">WeatherVoyager</string>
+    <string name="search_hint">Buscar ciudad...</string>
+    <string name="error_unknown">Error desconocido</string>
+    <string name="retry_button">Reintentar</string>
+    <string name="permission_rationale">La aplicación necesita acceder a su ubicación para obtener pronósticos meteorológicos precisos.</string>
+    <string name="grant_permission_button">Conceder permiso</string>
+
+    <string name="wind_dir_n">N</string>
+    <string name="wind_dir_ne">NE</string>
+    <string name="wind_dir_e">E</string>
+    <string name="wind_dir_se">SE</string>
+    <string name="wind_dir_s">S</string>
+    <string name="wind_dir_sw">SO</string>
+    <string name="wind_dir_w">O</string>
+    <string name="wind_dir_nw">NO</string>
+
+    <string name="weather_clear">Despejado</string>
+    <string name="weather_cloudy">Nublado</string>
+    <string name="weather_fog">Niebla</string>
+    <string name="weather_drizzle">Llovizna</string>
+    <string name="weather_rain">Lluvia</string>
+    <string name="weather_snow">Nieve</string>
+    <string name="search_placeholder">Buscar ciudad...</string>
+    <string name="content_desc_search">Buscar</string>
+    <string name="content_desc_clear">Borrar</string>
+    <string name="content_desc_my_loc">Mi ubicación</string>
+    <string name="temp_min">Mín: %1$s°C</string>
+    <string name="temp_max">Máx: %1$s°C</string>
+    <string name="wind_speed_format">%1$s m/s</string>
+    <string name="humidity_format">%1$s%%</string>
+    <string name="precip_format">%1$s mm</string>
+    <string name="weather_thunderstorm">Tormenta</string>
+    <string name="content_desc_back">Atrás</string>
+    <string name="forecast_for">Pronóstico para %1$s</string>
+    <string name="error_location_permission">Error al obtener coordenadas o sin permiso</string>
+    <string name="unknown_location">Ubicación desconocida</string>
+    <string name="error_network_unknown">Error de red desconocido</string>
+    <string name="error_no_internet">Sin conexión a Internet</string>
+</resources>
