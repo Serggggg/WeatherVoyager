@@ -1,0 +1,41 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="app_name">WeatherVoyager</string>
+    <string name="search_hint">Cerca città...</string>
+    <string name="error_unknown">Errore sconosciuto</string>
+    <string name="retry_button">Riprova</string>
+    <string name="permission_rationale">L\'app ha bisogno di accedere alla tua posizione per ottenere previsioni meteo accurate.</string>
+    <string name="grant_permission_button">Consenti</string>
+
+    <string name="wind_dir_n">N</string>
+    <string name="wind_dir_ne">NE</string>
+    <string name="wind_dir_e">E</string>
+    <string name="wind_dir_se">SE</string>
+    <string name="wind_dir_s">S</string>
+    <string name="wind_dir_sw">SO</string>
+    <string name="wind_dir_w">O</string>
+    <string name="wind_dir_nw">NO</string>
+
+    <string name="weather_clear">Sereno</string>
+    <string name="weather_cloudy">Nuvoloso</string>
+    <string name="weather_fog">Nebbia</string>
+    <string name="weather_drizzle">Pioviggine</string>
+    <string name="weather_rain">Pioggia</string>
+    <string name="weather_snow">Neve</string>
+    <string name="search_placeholder">Cerca città...</string>
+    <string name="content_desc_search">Cerca</string>
+    <string name="content_desc_clear">Cancella</string>
+    <string name="content_desc_my_loc">La mia posizione</string>
+    <string name="temp_min">Min: %1$s°C</string>
+    <string name="temp_max">Max: %1$s°C</string>
+    <string name="wind_speed_format">%1$s m/s</string>
+    <string name="humidity_format">%1$s%%</string>
+    <string name="precip_format">%1$s mm</string>
+    <string name="weather_thunderstorm">Temporale</string>
+    <string name="content_desc_back">Indietro</string>
+    <string name="forecast_for">Previsioni per %1$s</string>
+    <string name="error_location_permission">Impossibile ottenere le coordinate o autorizzazione negata</string>
+    <string name="unknown_location">Posizione sconosciuta</string>
+    <string name="error_network_unknown">Errore di rete sconosciuto</string>
+    <string name="error_no_internet">Nessuna connessione a Internet</string>
+</resources>

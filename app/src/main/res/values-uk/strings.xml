@@ -1,0 +1,41 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="app_name">WeatherVoyager</string>
+    <string name="search_hint">Пошук міста...</string>
+    <string name="error_unknown">Невідома помилка</string>
+    <string name="retry_button">Повторити</string>
+    <string name="permission_rationale">Для отримання актуального прогнозу додатку потрібен доступ до координат пристрою.</string>
+    <string name="grant_permission_button">Надати дозвіл</string>
+
+    <string name="wind_dir_n">Пн</string>
+    <string name="wind_dir_ne">ПнС</string>
+    <string name="wind_dir_e">Сх</string>
+    <string name="wind_dir_se">ПдС</string>
+    <string name="wind_dir_s">Пд</string>
+    <string name="wind_dir_sw">ПдЗ</string>
+    <string name="wind_dir_w">Зх</string>
+    <string name="wind_dir_nw">ПнЗ</string>
+
+    <string name="weather_clear">Ясно</string>
+    <string name="weather_cloudy">Хмарно</string>
+    <string name="weather_fog">Туман</string>
+    <string name="weather_drizzle">Мряка</string>
+    <string name="weather_rain">Дощ</string>
+    <string name="weather_snow">Сніг</string>
+    <string name="search_placeholder">Пошук міста...</string>
+    <string name="content_desc_search">Пошук</string>
+    <string name="content_desc_clear">Очистити</string>
+    <string name="content_desc_my_loc">Моя локація</string>
+    <string name="temp_min">Мін: %1$s°C</string>
+    <string name="temp_max">Макс: %1$s°C</string>
+    <string name="wind_speed_format">%1$s м/с</string>
+    <string name="humidity_format">%1$s%%</string>
+    <string name="precip_format">%1$s мм</string>
+    <string name="weather_thunderstorm">Гроза</string>
+    <string name="content_desc_back">Назад</string>
+    <string name="forecast_for">Прогноз для %1$s</string>
+    <string name="error_location_permission">Не вдалося отримати координати або немає прав</string>
+    <string name="unknown_location">Невідома локація</string>
+    <string name="error_network_unknown">Невідома помилка мережі</string>
+    <string name="error_no_internet">Немає підключення до інтернету</string>
+</resources>
